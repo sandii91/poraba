@@ -46,11 +46,13 @@ button {
 }
 
 .poraba {
+    position: absolute;
     padding: 200px; 30px; 10px; 50px;
     font-size: 30px;
 }
 
 .strosek {
+    position: absolute;
     padding-top: -800px;
     padding-left: 200px;
 }
@@ -58,3 +60,12 @@ button {
 .smile {
    padding: 20px;
 }
+
+p {
+    position: absolute;
+    padding-left:  450px;
+    padding-top:  -510px;
+    
+}
+
+
